@@ -1,0 +1,14 @@
+D:\Ky3Nam3\FullStack\LAB\La1\La1\bin\Debug\net10.0\La1.exe
+D:\Ky3Nam3\FullStack\LAB\La1\La1\bin\Debug\net10.0\La1.deps.json
+D:\Ky3Nam3\FullStack\LAB\La1\La1\bin\Debug\net10.0\La1.runtimeconfig.json
+D:\Ky3Nam3\FullStack\LAB\La1\La1\bin\Debug\net10.0\La1.dll
+D:\Ky3Nam3\FullStack\LAB\La1\La1\bin\Debug\net10.0\La1.pdb
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\La1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\La1.AssemblyInfoInputs.cache
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\La1.AssemblyInfo.cs
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\La1.csproj.CoreCompileInputs.cache
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\La1.dll
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\refint\La1.dll
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\La1.pdb
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\La1.genruntimeconfig.cache
+D:\Ky3Nam3\FullStack\LAB\La1\La1\obj\Debug\net10.0\ref\La1.dll
